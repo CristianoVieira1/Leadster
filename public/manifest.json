@@ -1,0 +1,21 @@
+{
+  "name": "Leadster",
+  "short_name": "Leadster",
+  "icons": [
+    {
+      "src": "/img/asset-header",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/asset-header",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Teste front end para a empresa Leadster",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
